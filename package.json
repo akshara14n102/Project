@@ -1,0 +1,24 @@
+{
+  "name": "aksahara",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nodemon Server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "nodemon": "^1.11.0"
+  },
+  "description": "A Web Site for AKSHARA",
+  "main": "Server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inventvenkat/Akshara.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inventvenkat/Akshara/issues"
+  },
+  "homepage": "https://github.com/inventvenkat/Akshara#readme"
+}
