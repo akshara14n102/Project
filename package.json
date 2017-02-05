@@ -4,10 +4,14 @@
   "scripts": {
     "start": "node Server.js"
   },
+  "engines": {
+    "node": "5.9.1"
+  },
   "dependencies": {
     "express": "latest",
     "nodemon": "^1.11.0"
   },
+
   "description": "A Web Site for AKSHARA",
   "main": "Server.js",
   "devDependencies": {},
@@ -20,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/inventvenkat/Akshara/issues"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "homepage": "https://github.com/inventvenkat/Akshara#readme"
 }
