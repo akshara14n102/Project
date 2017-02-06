@@ -1,26 +1,20 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.5",
-  "description": "A sample Node.js app using Express 4",
-  "engines": {
-    "node": "5.9.1"
-  },
-  "main": "index.js",
+  "name": "aksahara",
+  "version": "0.0.1",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon Server.js"
   },
   "dependencies": {
-    "ejs": "2.4.1",
-    "express": "4.13.3"
+    "express": "latest",
+    "nodemon": "^1.11.0"
   },
+  "description": "A Web Site for AKSHARA",
+  "main": "Server.js",
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/akshara14n102/Project"
+    "url": "git+https://github.com/Akshara14n102/Project.git"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
+  "author": "",
+  "license": "ISC"
 }

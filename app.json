@@ -1,6 +1,0 @@
-{
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/akshara14n102/Project",
-  "keywords": ["node", "express", "static"],
-}
