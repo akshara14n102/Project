@@ -1,26 +1,24 @@
 {
-  "name": "akshara",
+  "name": "aksahara",
   "version": "0.0.1",
-  "description": "about me",
-  "engines": {
-    "node": "5.9.1"
-  },
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon Server.js"
   },
   "dependencies": {
-    "ejs": "2.4.1",
-    "express": "4.13.3"
+    "express": "latest",
+    "nodemon": "^1.11.0"
   },
+  "description": "A Web Site for AKSHARA",
+  "main": "Server.js",
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/akshara14n102/Project.git"
+    "url": "git+https://github.com/inventvenkat/Akshara.git"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inventvenkat/Akshara/issues"
+  },
+  "homepage": "https://github.com/inventvenkat/Akshara#readme"
 }
