@@ -13,12 +13,8 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inventvenkat/Akshara.git"
+    "url": "git+https://github.com/akshara14n102/Project.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/inventvenkat/Akshara/issues"
-  },
-  "homepage": "https://github.com/inventvenkat/Akshara#readme"
+  "license": "ISC"
 }
